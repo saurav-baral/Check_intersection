@@ -3,7 +3,10 @@ Edit Run_intersection.py file to change the fst file that you are using.
 Change the following line:
 
 '''
+
 fst_file_name = f"{cwd}/two_pool_5%_0.05_5kb_merged.fst"
+
+
 '''
 
 The fst bed file has the following format:
