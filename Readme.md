@@ -1,5 +1,11 @@
 Edit Run_intersection.py file to change the fst file that you are using.
 
+'''
+
+python Run_intersection.py
+
+'''
+
 Change the following line:
 
 '''
